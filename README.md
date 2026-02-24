@@ -26,96 +26,49 @@ I am a results-driven Software Engineer with deep expertise in the PERN Stack (N
 
 ## 🌟 Engineering Showcase
 
-
-
 <table>
-
   <tr>
-
     <td align="center" width="33%">
-
       <a href="https://github.com/TheolnCodeLand/casalinga">
-
         <img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&h=300&fit=crop"
-
              alt="Casalinga Tours AI Project"
-
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
-
       </a>
-
       <br/>
-
       <b>Casalinga Tours AI Ecosystem</b><br/>
-
-      <sub>Developed a predictive ML recommendation engine and PostgreSQL inventory system, reducing manual administration by over 15 hours weekly.</sub><br/>
-
+      [cite_start]<sub>Developed a predictive ML recommendation engine and PostgreSQL inventory system, reducing manual administration by over 15 hours weekly[cite: 76, 77, 78].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand/casalinga">Repository</a> | 🌍 <a href="https://www.casalingatours.online/">Live</a>
-
       <br/>
-
       <sub><i>Node.js • Python • PostgreSQL • ML</i></sub>
-
     </td>
-
     <td align="center" width="33%">
-
       <a href="https://github.com/TheolnCodeLand/happy-delivery">
-
         <img src="https://images.unsplash.com/photo-1526367790999-0150786686a2?w=600&h=300&fit=crop"
-
              alt="Happy Deliveries App"
-
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
-
       </a>
-
       <br/>
-
       <b>Happy Deliveries Platform</b><br/>
-
-      <sub>Engineered a multi-vendor food delivery application featuring real-time geospatial tracking (Socket.io/PostGIS) and secure web dashboards.</sub><br/>
-
+      [cite_start]<sub>Engineered a multi-vendor food delivery application featuring real-time geospatial tracking and secure web dashboards[cite: 101, 102, 157].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand/happy-delivery">Repository</a>
-
       <br/>
-
       <sub><i>React Native • PERN • PostGIS</i></sub>
-
     </td>
-
     <td align="center" width="33%">
-
       <a href="https://github.com/TheolnCodeLand">
-
         <img src="https://images.unsplash.com/photo-1558002038-1055907df827?w=600&h=300&fit=crop"
-
              alt="IoT Smart Home System"
-
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
-
       </a>
-
       <br/>
-
       <b>IoT Smart Home Architecture</b><br/>
-
-      <sub>Directed an 8-person team to construct a load-shedding-aware hardware and software system utilizing ESP8266 and Firebase.</sub><br/>
-
+      [cite_start]<sub>Directed an 8-person team to construct a load-shedding-aware hardware and software system utilizing ESP8266 and Firebase[cite: 94, 95].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand">Repository</a>
-
       <br/>
-
       <sub><i>C++ • Firebase • React Native</i></sub>
-
     </td>
-
   </tr>
-
 </table>
-
-
-
 ---
 
 
