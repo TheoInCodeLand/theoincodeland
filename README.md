@@ -1,17 +1,14 @@
-# 🚀 Theophilus Thobejane
-**`Backend-Stack Software Engineer | AI & IoT Specialist`**
+# Hi 👋! [cite_start]Welcome to the profile of Theophilus Thobejane [cite: 57][cite_start], a Software Engineer & ICT Graduate [cite: 130]
 
-## 👨‍💻 Professional Overview
-- Architecting, shipping, and scaling robust full-stack applications and AI-integrated solutions for the South African tech landscape.
-- Transitioned rapidly from academic Java architecture to deploying production-scale PERN ecosystems and IoT networks.
-- Specialized in backend system design with a strict preference for clean, scalable Node.js architectures utilizing a `views/`, `routes/`, `public/`, `database/` folder structure.
-- Holds an Advanced Diploma in Information and Communication Technology (NQF 7).
-- Certified in Data Analysis with Python, Python 101 for Data Science, and Responsive Web Design.
+[cite_start]This developer is a results-driven Software Engineer [cite: 60] [cite_start]with deep expertise in Django/Python, Java (Spring Boot), and the PERN Stack (Node.js, Express, React, PostgreSQL)[cite: 115, 117, 118]. [cite_start]Certified in Data Analysis with Python [cite: 7][cite_start], this engineer has architected and deployed scalable full-stack ecosystems, automated real-time workflows, and mentored students as a Teaching Assistant[cite: 178]. [cite_start]Proven ability to bridge technology and business by delivering high-impact applications—currently building AI-integrated platforms [cite: 170] while leading the firm, AFRICONNECT TECH SOLUTIONS, in software development and innovation.
+
+---
 
 ## 💻 Technical Arsenal
 [![Technical Skills](https://skillicons.dev/icons?i=js,python,java,ts,react,nodejs,express,postgres,mongodb,django,aws,docker,git,github&theme=light)](https://skillicons.dev)
 
-**Advanced Tooling**: React Native (Expo), Socket.io, Firebase, C++ (Embedded), PostGIS spatial queries, and Machine Learning workflows (Scikit-learn, Pandas, NumPy).
+[cite_start]**Advanced Tooling**: React Native (Expo), Socket.io, Firebase, C++ (Embedded), PostGIS spatial queries, and Machine Learning workflows (Scikit-learn, Pandas, NumPy)[cite: 156, 162, 166]. 
+**Architecture**: Strong preference for a clean `views/`, `routes/`, `public/`, `database/` folder structure for scalable Node.js deployments.
 
 ---
 
@@ -27,7 +24,7 @@
       </a>
       <br/>
       <b>Casalinga Tours AI Ecosystem</b><br/>
-      <sub>Developed a predictive ML recommendation engine and PostgreSQL inventory system, reducing manual administration by over 15 hours weekly.</sub><br/>
+      [cite_start]<sub>Developed a predictive ML recommendation engine and PostgreSQL inventory system, reducing manual administration by over 15 hours weekly[cite: 173, 174].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand/casalinga">Repository</a> | 🌍 <a href="https://www.casalingatours.online/">Live</a>
       <br/>
       <sub><i>Node.js • Python • PostgreSQL • ML</i></sub>
@@ -40,7 +37,7 @@
       </a>
       <br/>
       <b>Happy Deliveries Platform</b><br/>
-      <sub>Engineered a multi-vendor food delivery application featuring real-time geospatial tracking (Socket.io/PostGIS) and secure web dashboards.</sub><br/>
+      [cite_start]<sub>Engineered a multi-vendor food delivery application featuring real-time geospatial tracking (Socket.io/PostGIS) and secure web dashboards[cite: 157, 158].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand/happy-delivery">Repository</a>
       <br/>
       <sub><i>React Native • PERN • PostGIS</i></sub>
@@ -53,7 +50,7 @@
       </a>
       <br/>
       <b>IoT Smart Home Architecture</b><br/>
-      <sub>Directed an 8-person team to construct a load-shedding-aware hardware and software system utilizing ESP8266 and Firebase.</sub><br/>
+      [cite_start]<sub>Directed an 8-person team to construct a load-shedding-aware hardware and software system utilizing ESP8266 and Firebase[cite: 167, 168].</sub><br/>
       🔗 <a href="https://github.com/TheolnCodeLand">Repository</a>
       <br/>
       <sub><i>C++ • Firebase • React Native</i></sub>
@@ -65,15 +62,16 @@
 
 ## 📈 Performance & Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheolnCodeLand&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/TheolnCodeLand)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheolnCodeLand&layout=compact&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=TheolnCodeLand)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheolnCodeLand&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheolnCodeLand&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ## 🤝 Connectivity
 
-- 💼 [**Professional Portfolio**](https://theophilus-portfolio.vercel.app/)
+- 💼 [**Professional Portfolio**](https://theophilusthobejane.online)
 - 📧 [**Contact via Email**](mailto:thobejanetheo@gmail.com)
 
 <a href="https://www.linkedin.com/in/theophilus-thobejane" target="blank">
