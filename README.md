@@ -1,5 +1,5 @@
 # 🚀 Theophilus Thobejane
-**`Full-Stack Software Engineer | AI & IoT Specialist | Co-Founder at AFRICONNECT TECH SOLUTIONS`**
+**`Backend-Stack Software Engineer | AI & IoT Specialist`**
 
 ## 👨‍💻 Professional Overview
 - Architecting, shipping, and scaling robust full-stack applications and AI-integrated solutions for the South African tech landscape.
@@ -73,7 +73,7 @@
 
 ## 🤝 Connectivity
 
-- 💼 [**Professional Portfolio**](https://theolncodeland.github.io)
+- 💼 [**Professional Portfolio**](https://theophilus-portfolio.vercel.app/)
 - 📧 [**Contact via Email**](mailto:thobejanetheo@gmail.com)
 
 <a href="https://www.linkedin.com/in/theophilus-thobejane" target="blank">
