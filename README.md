@@ -1,12 +1,12 @@
-# 🚀Hiiiii, I'm Theophilus Thobejane
-**`Backend-Stack Software Engineer | AI & IoT Specialist `**
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Theophilus%20Thobejane&fontSize=70&fontColor=ffffff&desc=Backend-Stack%20Software%20Engineer%20%7C%20AI%20%26%20IoT%20Specialist&descSize=22&descColor=ffffff)
+# 🚀 Hiiiii, I'm Theophilus Thobejane
 
-## 👨‍💻 Professional Overview
-- Architecting, shipping, and scaling robust full-stack applications and AI-integrated solutions for the South African tech landscape.
-- Transitioned rapidly from academic Java architecture to deploying production-scale PERN ecosystems and IoT networks.
-- Specialized in backend system design with a strict preference for clean, scalable Node.js architectures utilizing a `views/`, `routes/`, `public/`, `database/` folder structure.
-- Holds an Advanced Diploma in Information and Communication Technology (NQF 7).
-- Certified in Data Analysis with Python, Python 101 for Data Science, and Responsive Web Design.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&vCenter=true&width=600&lines=Backend-Stack+Software+Engineer;AI+%26+IoT+Specialist;Data+Analysis+with+Python;PERN,+Django,+%26+Java+Expert" alt="Typing SVG" />
+</p>
+
+## About me?
+I am a results-driven Software Engineer with deep expertise in the PERN Stack (Node.js, Express, React, PostgreSQL), Django/Python, and Java. Certified in Data Analysis with Python, I have architected and deployed scalable full-stack ecosystems, automated real-time workflows, and mentored university students as a Teaching Assistant. I have a proven ability to bridge technology and business by delivering high-impact applications, and I am currently focused on building AI-integrated platforms and driving software innovation.
 
 ## 💻 Technical Arsenal
 [![Technical Skills](https://skillicons.dev/icons?i=js,python,java,ts,react,nodejs,express,postgres,mongodb,django,aws,docker,git,github&theme=light)](https://skillicons.dev)
