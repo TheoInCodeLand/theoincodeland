@@ -1,10 +1,12 @@
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Theophilus%20Thobejane&fontSize=70&fontColor=ffffff&desc=Backend-Stack%20Software%20Engineer%20%7C%20AI%20%26%20IoT%20Specialist&descSize=22&descColor=ffffff)
+
 # 🚀 Hiiiii, I'm Theophilus Thobejane
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Coding Hero Banner" style="border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=300&q=80" alt="Tech & AI Hero Banner" style="border-radius: 8px;" />
 </p>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&vCenter=true&width=600&lines=Backend-Stack+Software+Engineer;AI+%26+IoT+Specialist;Data+Analysis+with+Python;PERN,+Django,+%26+Java+Expert" alt="Typing SVG" />
+</p>
 ## About me?
 I am a results-driven Software Engineer with deep expertise in the PERN Stack (Node.js, Express, React, PostgreSQL), Django/Python, and Java. Certified in Data Analysis with Python, I have architected and deployed scalable full-stack ecosystems, automated real-time workflows, and mentored university students as a Teaching Assistant. I have a proven ability to bridge technology and business by delivering high-impact applications, and I am currently focused on building AI-integrated platforms and driving software innovation.
 
