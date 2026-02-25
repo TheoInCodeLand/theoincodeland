@@ -1,4 +1,4 @@
-# 🚀Hiiiii, I'm Theophilus Thobejane
+# I'm Theophilus Thobejane
 
 **`Backend-Stack Software Engineer | AI & IoT Specialist `**
 
@@ -10,7 +10,7 @@ I am a results-driven Software Engineer with deep expertise in the PERN Stack (N
 
 
 
-## 💻 Technical Arsenal
+## Technical Arsenal
 
 [![Technical Skills](https://skillicons.dev/icons?i=js,python,java,ts,react,nodejs,express,postgres,mongodb,django,aws,docker,git,github&theme=light)](https://skillicons.dev)
 
@@ -24,7 +24,7 @@ I am a results-driven Software Engineer with deep expertise in the PERN Stack (N
 
 
 
-## 🌟 Engineering Showcase
+## Engineering Showcase
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ I am a results-driven Software Engineer with deep expertise in the PERN Stack (N
 
 
 
-## 📈 Performance & Analytics
+## Performance & Analytics
 
 
 
@@ -89,13 +89,13 @@ I am a results-driven Software Engineer with deep expertise in the PERN Stack (N
 
 
 
-## 🤝 Connectivity
+## Connectivity
 
 
 
-- 💼 [**Professional Portfolio**](https://theophilusthobejane.online)
+- [**Professional Portfolio**](https://theophilusthobejane.online)
 
-- 📧 [**Contact via Email**](mailto:thobejanetheo@gmail.com)
+- [**Contact via Email**](mailto:thobejanetheo@gmail.com)
 
 
 
